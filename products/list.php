@@ -45,7 +45,7 @@ include '../database/db.php'   ;
 <!-- header -->
 <?php   include '../shared/header.php'      ?>
     <div class="container">
-        <h1 class="text-primary text-center pt-5 pb-5">List All Products Page eng  Islam </h1>
+        <h1 class="text-primary text-center pt-5 pb-5">List All Products Page </h1>
         <div class="row justify-content-center ">
             <div class="col-lg-12 col-md-12 col-sm-12">
 
